@@ -51,3 +51,35 @@ Then open **http://localhost:5000/** — you'll land on the new homepage, and
   (e.g. `sqlite:///freelancehub.db`) for local testing.
 - No design/logic in the controllers, services, or routes was changed —
   only templates and the `/` route.
+
+## 📸 Interface Screenshots
+
+### Home Page
+![Home Page](interface%20view/1.png)
+
+### Login Page
+![Login Page](interface%20view/2.png)
+
+### Register Page
+![Register Page](interface%20view/3.png)
+
+### Dashboard
+![Dashboard](interface%20view/4.png)
+
+### Projects
+![Projects](interface%20view/5.png)
+
+### Bids
+![Bids](interface%20view/6.png)
+
+### Messages
+![Messages](interface%20view/7.png)
+
+### Profile
+![Profile](interface%20view/8.png)
+
+### Settings
+![Settings](interface%20view/9.png)
+
+### Another Screen
+![Another Screen](interface%20view/10.png)
